@@ -1,1 +1,1 @@
-web: python flask_restful.py
+web: gunicorn flask_restful.py
