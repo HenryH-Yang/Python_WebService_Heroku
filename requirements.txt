@@ -7,7 +7,7 @@ click==6.6
 cloudant==2.2.0
 configparser==3.5.0
 couchdbkit==0.6.5
-cryptography==1.5.3
+cryptography==3.2
 dj-database-url==0.4.0
 enum34==1.1.6
 Flask==0.11.1
